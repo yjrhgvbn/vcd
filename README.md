@@ -1,0 +1,9 @@
+# vcd
+
+纯java开发的音乐播放器，能解析flac文件的图片等信息并显示，涉及多线程，socket编程和数据操作，只支持flac格式
+
+有客户端和服务端，在两个文件下，需要修改对应目录下的setting.java和ClientSetting.java的配置
+
+先运行workspace2下的BulidSql.java解析flac文件并保存数据到数据库，然后运行mainserve.java和另一个文件下的MainFrame.java
+
+内容有点乱，我直接拷贝eclipse的两个工作域进去，也包括了一些测试代码
