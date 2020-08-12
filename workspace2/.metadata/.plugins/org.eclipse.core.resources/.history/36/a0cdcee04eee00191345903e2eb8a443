@@ -1,0 +1,41 @@
+package serve;
+
+import java.io.*;
+import java.net.ServerSocket;
+import java.net.Socket;
+import serve.Setting;
+import serve.SeekSql;
+
+public class mainserve {
+	public static void main(String[] args) throws Exception {
+		// IP 10.102.11.194
+		ServerSocket serverscok = new ServerSocket(9092);
+		Socket scok = serverscok.accept();
+		//ObjectInputStream oi = new ObjectInputStream(s.getInputStream());
+		// String [] arr = (String[]) oi.readObject();
+		// System.out.println(arr[0] + arr[1]);
+		//BufferedInputStream in = new BufferedInputStream(scok.getInputStream());
+		InputStream inputStream = scok.getInputStream();
+        
+		ObjectOutputStream obout = new ObjectOutputStream(scok.getOutputStream());
+         //BufferedReader b = new BufferedReader(streamReader);  
+		 System.out.println("接收到了客户端的请求");
+           
+		 byte[] inputData = new byte[4000];
+			int n = inputStream.read(inputData);
+			if(n <= 0)
+			{
+				scok.close();
+			}
+			//发送数据
+			String inputMsg = new String(inputData , 0 , n , "UTF-8");
+			System.out.println("GOT:" + inputMsg);
+		@SuppressWarnings("unchecked")
+
+		SeekSql sql = new SeekSql();
+		obout.writeObject(sql.GetList(Setting.Arears.Asia));
+		// obout.flush();
+		// obout.flush();
+	}
+
+}

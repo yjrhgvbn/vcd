@@ -1,0 +1,19 @@
+package Test;
+
+import java.io.ObjectOutputStream;
+import java.net.Socket;
+import java.util.ArrayList;
+import serve.SeekSql;
+import serve.Setting;
+
+public class test {
+	public static void main(String[] args) throws Exception {
+		SeekSql s1 = new SeekSql();
+		ArrayList<String>a = s1.GetList(Setting.Arears.Asia);
+		Socket s = new Socket("10.102.11.194", 9091);
+		ObjectOutputStream out = new ObjectOutputStream(s.getOutputStream());
+		out.writeObject("Asdsad");
+		out.flush();
+		out.close();
+	}
+}

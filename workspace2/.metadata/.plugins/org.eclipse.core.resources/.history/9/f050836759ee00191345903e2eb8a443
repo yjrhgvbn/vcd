@@ -1,0 +1,66 @@
+package serve;
+
+import java.sql.*;
+import java.util.ArrayList;
+
+import serve.Setting;
+
+public class SeekSql {
+	Connection conn = null;
+	Statement stmt = null;
+
+	public SeekSql() {
+		try {
+			Class.forName(Setting.JDBC_DRIVER);
+			conn = DriverManager.getConnection(Setting.DB_URL, Setting.USER, Setting.PASS);
+			stmt = conn.createStatement();
+		} catch (SQLException se) {
+			se.printStackTrace();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public ArrayList<String> GetList(Setting.Arears arear) {
+		ArrayList<String> list = new ArrayList<String>();
+		String sql = "SELECT name FROM Songslist WHERE arear = '" + arear.toString() + "';";
+		try {
+			ResultSet rs = stmt.executeQuery(sql);
+			while (rs.next()) {
+				list.add(rs.getString("name"));
+			}
+			rs.close();
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		if (list.size() > 0)
+			return list;
+		else
+			return null;
+	}
+
+	public String GetPath(String name) {
+		String sql = "SELECT path FROM Songslist WHERE name = '" + name + "';";
+		try {
+			ResultSet rs = stmt.executeQuery(sql);
+			rs.next();
+			String p = rs.getString(1);
+			rs.close();
+			return p;
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+
+	public void close() {
+		try {
+			if (stmt != null)
+				stmt.close();
+			if (conn != null)
+				conn.close();
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
+}

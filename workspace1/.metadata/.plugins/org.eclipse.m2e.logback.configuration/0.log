@@ -1,0 +1,523 @@
+2019-09-23 15:29:04,419 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-09-23 16:34:50,700 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-09-27 14:41:32,603 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-09-27 17:16:51,404 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-09-29 14:45:15,825 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-09-29 19:07:50,916 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-09-30 14:34:13,750 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-01 17:36:18,352 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-01 17:36:18,555 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-10-09 16:00:47,155 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-11 14:39:40,978 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-12 14:29:24,012 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-12 18:05:58,837 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-14 13:19:04,335 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-14 14:42:32,934 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-14 14:46:27,484 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-14 21:02:45,398 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-15 15:27:04,044 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-15 20:41:22,704 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-15 23:08:05,065 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-16 12:29:09,265 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-16 12:30:24,700 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-10-16 12:30:54,914 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/net/dv8tion/JDA/3.8.3_464/JDA-3.8.3_464.pom
+2019-10-16 12:30:55,383 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/net/dv8tion/JDA/3.8.3_464/JDA-3.8.3_464.pom
+2019-10-16 12:30:55,867 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom
+2019-10-16 12:30:56,289 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom
+2019-10-16 12:30:56,711 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2019-10-16 12:30:57,117 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2019-10-16 12:30:57,539 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/jetbrains/annotations/16.0.1/annotations-16.0.1.pom
+2019-10-16 12:30:57,960 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/jetbrains/annotations/16.0.1/annotations-16.0.1.pom
+2019-10-16 12:30:58,383 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom
+2019-10-16 12:30:58,789 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom
+2019-10-16 12:30:59,210 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom
+2019-10-16 12:30:59,835 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom
+2019-10-16 12:31:00,257 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/neovisionaries/nv-websocket-client/2.5/nv-websocket-client-2.5.pom
+2019-10-16 12:31:00,679 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/neovisionaries/nv-websocket-client/2.5/nv-websocket-client-2.5.pom
+2019-10-16 12:31:01,100 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/squareup/okhttp3/okhttp/3.13.0/okhttp-3.13.0.pom
+2019-10-16 12:31:01,507 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/squareup/okhttp3/okhttp/3.13.0/okhttp-3.13.0.pom
+2019-10-16 12:31:01,929 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/squareup/okhttp3/parent/3.13.0/parent-3.13.0.pom
+2019-10-16 12:31:02,350 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/squareup/okhttp3/parent/3.13.0/parent-3.13.0.pom
+2019-10-16 12:31:02,772 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/squareup/okio/okio/1.17.2/okio-1.17.2.pom
+2019-10-16 12:31:03,178 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/squareup/okio/okio/1.17.2/okio-1.17.2.pom
+2019-10-16 12:31:03,600 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/squareup/okio/okio-parent/1.17.2/okio-parent-1.17.2.pom
+2019-10-16 12:31:04,021 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/squareup/okio/okio-parent/1.17.2/okio-parent-1.17.2.pom
+2019-10-16 12:31:04,443 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/club/minnced/opus-java/1.0.4/opus-java-1.0.4.pom
+2019-10-16 12:31:04,849 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/club/minnced/opus-java/1.0.4/opus-java-1.0.4.pom
+2019-10-16 12:31:05,271 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/club/minnced/opus-java-api/1.0.4/opus-java-api-1.0.4.pom
+2019-10-16 12:31:05,693 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/club/minnced/opus-java-api/1.0.4/opus-java-api-1.0.4.pom
+2019-10-16 12:31:06,115 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/net/java/dev/jna/jna/4.4.0/jna-4.4.0.pom
+2019-10-16 12:31:06,534 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/net/java/dev/jna/jna/4.4.0/jna-4.4.0.pom
+2019-10-16 12:31:06,953 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/club/minnced/opus-java-natives/1.0.4/opus-java-natives-1.0.4.pom
+2019-10-16 12:31:07,359 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/club/minnced/opus-java-natives/1.0.4/opus-java-natives-1.0.4.pom
+2019-10-16 12:31:07,781 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.pom
+2019-10-16 12:31:08,203 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.pom
+2019-10-16 12:31:08,625 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/commons/commons-parent/38/commons-parent-38.pom
+2019-10-16 12:31:09,265 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/commons/commons-parent/38/commons-parent-38.pom
+2019-10-16 12:31:09,687 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/apache/16/apache-16.pom
+2019-10-16 12:31:10,108 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/apache/16/apache-16.pom
+2019-10-16 12:31:10,530 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/json/json/20160810/json-20160810.pom
+2019-10-16 12:31:10,937 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/json/json/20160810/json-20160810.pom
+2019-10-16 12:31:11,343 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2019-10-16 12:31:11,764 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2019-10-16 12:31:12,186 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.pom
+2019-10-16 12:31:12,608 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.pom
+2019-10-16 12:31:13,030 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/sedmelluq/lavaplayer/1.3.22/lavaplayer-1.3.22.pom
+2019-10-16 12:31:13,436 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/sedmelluq/lavaplayer/1.3.22/lavaplayer-1.3.22.pom
+2019-10-16 12:31:13,858 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/sedmelluq/lava-common/1.1.0/lava-common-1.1.0.pom
+2019-10-16 12:31:14,264 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/sedmelluq/lava-common/1.1.0/lava-common-1.1.0.pom
+2019-10-16 12:31:14,685 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/commons-io/commons-io/2.6/commons-io-2.6.pom
+2019-10-16 12:31:15,108 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/commons-io/commons-io/2.6/commons-io-2.6.pom
+2019-10-16 12:31:15,529 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2019-10-16 12:31:15,951 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2019-10-16 12:31:16,357 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/apache/18/apache-18.pom
+2019-10-16 12:31:16,779 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/apache/18/apache-18.pom
+2019-10-16 12:31:17,201 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/sedmelluq/lavaplayer-natives/1.3.13/lavaplayer-natives-1.3.13.pom
+2019-10-16 12:31:17,622 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/sedmelluq/lavaplayer-natives/1.3.13/lavaplayer-natives-1.3.13.pom
+2019-10-16 12:31:18,044 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.pom
+2019-10-16 12:31:18,450 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.pom
+2019-10-16 12:31:18,872 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-client/4.5.6/httpcomponents-client-4.5.6.pom
+2019-10-16 12:31:19,278 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-client/4.5.6/httpcomponents-client-4.5.6.pom
+2019-10-16 12:31:19,700 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-parent/10/httpcomponents-parent-10.pom
+2019-10-16 12:31:20,122 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-parent/10/httpcomponents-parent-10.pom
+2019-10-16 12:31:20,528 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.pom
+2019-10-16 12:31:20,950 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.pom
+2019-10-16 12:31:21,372 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-core/4.4.10/httpcomponents-core-4.4.10.pom
+2019-10-16 12:31:21,778 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-core/4.4.10/httpcomponents-core-4.4.10.pom
+2019-10-16 12:31:22,200 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2019-10-16 12:31:22,621 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2019-10-16 12:31:23,028 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2019-10-16 12:31:23,465 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2019-10-16 12:31:23,887 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/apache/13/apache-13.pom
+2019-10-16 12:31:24,293 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/apache/13/apache-13.pom
+2019-10-16 12:31:24,715 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2019-10-16 12:31:25,136 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2019-10-16 12:31:25,542 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2019-10-16 12:31:25,964 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2019-10-16 12:31:26,386 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/apache/15/apache-15.pom
+2019-10-16 12:31:26,792 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/apache/15/apache-15.pom
+2019-10-16 12:31:27,214 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.pom
+2019-10-16 12:31:27,620 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.pom
+2019-10-16 12:31:28,042 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/jackson/jackson-base/2.9.8/jackson-base-2.9.8.pom
+2019-10-16 12:31:28,464 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/jackson/jackson-base/2.9.8/jackson-base-2.9.8.pom
+2019-10-16 12:31:28,886 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/jackson/jackson-bom/2.9.8/jackson-bom-2.9.8.pom
+2019-10-16 12:31:29,291 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/jackson/jackson-bom/2.9.8/jackson-bom-2.9.8.pom
+2019-10-16 12:31:29,714 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/jackson/jackson-parent/2.9.1.2/jackson-parent-2.9.1.2.pom
+2019-10-16 12:31:30,135 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/jackson/jackson-parent/2.9.1.2/jackson-parent-2.9.1.2.pom
+2019-10-16 12:31:30,541 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/oss-parent/34/oss-parent-34.pom
+2019-10-16 12:31:30,955 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/oss-parent/34/oss-parent-34.pom
+2019-10-16 12:31:31,376 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.pom
+2019-10-16 12:31:31,798 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.pom
+2019-10-16 12:31:32,204 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.pom
+2019-10-16 12:31:32,626 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.pom
+2019-10-16 12:31:33,032 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/jackson/jackson-parent/2.9.0/jackson-parent-2.9.0.pom
+2019-10-16 12:31:33,454 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/jackson/jackson-parent/2.9.0/jackson-parent-2.9.0.pom
+2019-10-16 12:31:33,860 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/oss-parent/28/oss-parent-28.pom
+2019-10-16 12:31:34,282 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/oss-parent/28/oss-parent-28.pom
+2019-10-16 12:31:34,703 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.pom
+2019-10-16 12:31:35,125 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.pom
+2019-10-16 12:31:35,547 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/net/iharder/base64/2.3.9/base64-2.3.9.pom
+2019-10-16 12:31:35,953 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/net/iharder/base64/2.3.9/base64-2.3.9.pom
+2019-10-16 12:31:36,375 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities/2.1.5/jda-utilities-2.1.5.pom
+2019-10-16 12:31:36,797 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities/2.1.5/jda-utilities-2.1.5.pom
+2019-10-16 12:31:38,292 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-command/2.1.5/jda-utilities-command-2.1.5.pom
+2019-10-16 12:31:38,713 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-command/2.1.5/jda-utilities-command-2.1.5.pom
+2019-10-16 12:31:39,136 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.pom
+2019-10-16 12:31:39,557 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.pom
+2019-10-16 12:31:39,979 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/squareup/okhttp3/parent/3.9.1/parent-3.9.1.pom
+2019-10-16 12:31:40,588 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/squareup/okhttp3/parent/3.9.1/parent-3.9.1.pom
+2019-10-16 12:31:41,010 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/squareup/okio/okio/1.13.0/okio-1.13.0.pom
+2019-10-16 12:31:41,432 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/squareup/okio/okio/1.13.0/okio-1.13.0.pom
+2019-10-16 12:31:41,838 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/squareup/okio/okio-parent/1.13.0/okio-parent-1.13.0.pom
+2019-10-16 12:31:42,260 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/squareup/okio/okio-parent/1.13.0/okio-parent-1.13.0.pom
+2019-10-16 12:31:42,682 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-commons/2.1.5/jda-utilities-commons-2.1.5.pom
+2019-10-16 12:31:43,087 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-commons/2.1.5/jda-utilities-commons-2.1.5.pom
+2019-10-16 12:31:43,510 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-doc/2.1.5/jda-utilities-doc-2.1.5.pom
+2019-10-16 12:31:43,931 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-doc/2.1.5/jda-utilities-doc-2.1.5.pom
+2019-10-16 12:31:44,359 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-examples/2.1.5/jda-utilities-examples-2.1.5.pom
+2019-10-16 12:31:44,774 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-examples/2.1.5/jda-utilities-examples-2.1.5.pom
+2019-10-16 12:31:45,195 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-menu/2.1.5/jda-utilities-menu-2.1.5.pom
+2019-10-16 12:31:45,610 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-menu/2.1.5/jda-utilities-menu-2.1.5.pom
+2019-10-16 12:31:46,088 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/JLyrics/0.2/JLyrics-0.2.pom
+2019-10-16 12:31:46,541 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/JLyrics/0.2/JLyrics-0.2.pom
+2019-10-16 12:31:46,966 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/typesafe/config/1.3.2/config-1.3.2.pom
+2019-10-16 12:31:47,382 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/typesafe/config/1.3.2/config-1.3.2.pom
+2019-10-16 12:31:47,803 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/json/json/20180813/json-20180813.pom
+2019-10-16 12:31:48,219 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/json/json/20180813/json-20180813.pom
+2019-10-16 12:31:48,642 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.pom
+2019-10-16 12:31:49,055 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.pom
+2019-10-16 12:31:49,470 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/ch/qos/logback/logback-parent/1.2.3/logback-parent-1.2.3.pom
+2019-10-16 12:31:49,884 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/ch/qos/logback/logback-parent/1.2.3/logback-parent-1.2.3.pom
+2019-10-16 12:31:50,305 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.pom
+2019-10-16 12:31:50,720 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.pom
+2019-10-16 12:31:51,136 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/junit/junit/4.12/junit-4.12.pom
+2019-10-16 12:31:51,551 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/junit/junit/4.12/junit-4.12.pom
+2019-10-16 12:31:51,966 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2019-10-16 12:31:52,385 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2019-10-16 12:31:52,799 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2019-10-16 12:31:53,213 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2019-10-16 12:31:55,445 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/net/dv8tion/JDA/3.8.3_464/JDA-3.8.3_464.jar
+2019-10-16 12:31:57,077 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/net/dv8tion/JDA/3.8.3_464/JDA-3.8.3_464.jar
+2019-10-16 12:31:57,487 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+2019-10-16 12:31:57,903 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+2019-10-16 12:31:58,322 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/jetbrains/annotations/16.0.1/annotations-16.0.1.jar
+2019-10-16 12:31:58,736 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/jetbrains/annotations/16.0.1/annotations-16.0.1.jar
+2019-10-16 12:31:59,152 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar
+2019-10-16 12:31:59,771 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar
+2019-10-16 12:32:00,189 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/neovisionaries/nv-websocket-client/2.5/nv-websocket-client-2.5.jar
+2019-10-16 12:32:00,822 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/neovisionaries/nv-websocket-client/2.5/nv-websocket-client-2.5.jar
+2019-10-16 12:32:02,101 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/squareup/okhttp3/okhttp/3.13.0/okhttp-3.13.0.jar
+2019-10-16 12:32:03,237 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/squareup/okhttp3/okhttp/3.13.0/okhttp-3.13.0.jar
+2019-10-16 12:32:03,652 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar
+2019-10-16 12:32:04,073 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar
+2019-10-16 12:32:04,488 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/club/minnced/opus-java-api/1.0.4/opus-java-api-1.0.4.jar
+2019-10-16 12:32:04,904 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/club/minnced/opus-java-api/1.0.4/opus-java-api-1.0.4.jar
+2019-10-16 12:32:05,427 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2019-10-16 12:32:06,195 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+2019-10-16 12:32:08,280 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+2019-10-16 12:32:09,582 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/club/minnced/opus-java-natives/1.0.4/opus-java-natives-1.0.4.jar
+2019-10-16 12:32:11,878 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/club/minnced/opus-java-natives/1.0.4/opus-java-natives-1.0.4.jar
+2019-10-16 12:32:12,463 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+2019-10-16 12:32:13,172 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+2019-10-16 12:32:13,589 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/json/json/20160810/json-20160810.jar
+2019-10-16 12:32:14,009 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/json/json/20160810/json-20160810.jar
+2019-10-16 12:32:15,294 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+2019-10-16 12:32:17,216 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+2019-10-16 12:32:18,502 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/sedmelluq/lavaplayer/1.3.22/lavaplayer-1.3.22.jar
+2019-10-16 12:32:19,708 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/sedmelluq/lavaplayer/1.3.22/lavaplayer-1.3.22.jar
+2019-10-16 12:32:20,123 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/sedmelluq/lava-common/1.1.0/lava-common-1.1.0.jar
+2019-10-16 12:32:20,538 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/sedmelluq/lava-common/1.1.0/lava-common-1.1.0.jar
+2019-10-16 12:32:21,125 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/sedmelluq/lavaplayer-natives/1.3.13/lavaplayer-natives-1.3.13.jar
+2019-10-16 12:32:22,805 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/sedmelluq/lavaplayer-natives/1.3.13/lavaplayer-natives-1.3.13.jar
+2019-10-16 12:32:23,380 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar
+2019-10-16 12:32:23,892 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar
+2019-10-16 12:32:24,467 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar
+2019-10-16 12:32:24,927 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar
+2019-10-16 12:32:25,336 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2019-10-16 12:32:25,752 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2019-10-16 12:32:26,326 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+2019-10-16 12:32:26,774 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+2019-10-16 12:32:27,349 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/commons-io/commons-io/2.6/commons-io-2.6.jar
+2019-10-16 12:32:27,788 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/commons-io/commons-io/2.6/commons-io-2.6.jar
+2019-10-16 12:32:28,364 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar
+2019-10-16 12:32:28,803 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar
+2019-10-16 12:32:29,393 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar
+2019-10-16 12:32:29,975 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar
+2019-10-16 12:32:30,383 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar
+2019-10-16 12:32:30,795 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar
+2019-10-16 12:32:31,380 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar
+2019-10-16 12:32:31,848 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar
+2019-10-16 12:32:32,255 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/net/iharder/base64/2.3.9/base64-2.3.9.jar
+2019-10-16 12:32:32,676 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/net/iharder/base64/2.3.9/base64-2.3.9.jar
+2019-10-16 12:32:33,098 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-command/2.1.5/jda-utilities-command-2.1.5.jar
+2019-10-16 12:32:33,508 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-command/2.1.5/jda-utilities-command-2.1.5.jar
+2019-10-16 12:32:33,935 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-commons/2.1.5/jda-utilities-commons-2.1.5.jar
+2019-10-16 12:32:34,337 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-commons/2.1.5/jda-utilities-commons-2.1.5.jar
+2019-10-16 12:32:34,758 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-doc/2.1.5/jda-utilities-doc-2.1.5.jar
+2019-10-16 12:32:35,180 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-doc/2.1.5/jda-utilities-doc-2.1.5.jar
+2019-10-16 12:32:35,587 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-examples/2.1.5/jda-utilities-examples-2.1.5.jar
+2019-10-16 12:32:36,002 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-examples/2.1.5/jda-utilities-examples-2.1.5.jar
+2019-10-16 12:32:36,412 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-menu/2.1.5/jda-utilities-menu-2.1.5.jar
+2019-10-16 12:32:36,849 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-menu/2.1.5/jda-utilities-menu-2.1.5.jar
+2019-10-16 12:32:37,412 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/JLyrics/0.2/JLyrics-0.2.jar
+2019-10-16 12:32:37,858 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/JLyrics/0.2/JLyrics-0.2.jar
+2019-10-16 12:32:39,540 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar
+2019-10-16 12:32:39,992 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar
+2019-10-16 12:32:40,571 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar
+2019-10-16 12:32:41,039 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar
+2019-10-16 12:32:42,320 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/typesafe/config/1.3.2/config-1.3.2.jar
+2019-10-16 12:32:43,398 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/typesafe/config/1.3.2/config-1.3.2.jar
+2019-10-16 12:32:43,976 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/junit/junit/4.12/junit-4.12.jar
+2019-10-16 12:32:44,434 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/junit/junit/4.12/junit-4.12.jar
+2019-10-16 12:32:44,856 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2019-10-16 12:32:45,680 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2019-10-16 12:33:46,788 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2019-10-16 12:35:27,132 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar
+2019-10-16 12:37:07,615 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2019-10-16 12:38:48,027 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2019-10-16 12:40:28,616 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/1.5/maven-shade-plugin-1.5.jar
+2019-10-16 12:42:09,082 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+2019-10-16 12:43:49,767 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2019-10-16 12:45:30,280 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2019-10-16 12:47:10,663 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
+2019-10-16 12:47:10,679 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jagrosh:JMusicBot:0.2.5 @ C:\Users\WuJinPeng\Desktop\MusicBot-master\pom.xml.
+2019-10-16 12:47:15,900 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/net/dv8tion/JDA/3.8.3_464/JDA-3.8.3_464-sources.jar
+2019-10-16 12:47:17,462 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/net/dv8tion/JDA/3.8.3_464/JDA-3.8.3_464-sources.jar
+2019-10-16 12:47:17,493 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.dv8tion:JDA:3.8.3_464
+2019-10-16 12:47:18,978 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar
+2019-10-16 12:47:19,587 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar
+2019-10-16 12:47:19,618 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.findbugs:jsr305:3.0.2
+2019-10-16 12:47:21,134 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/jetbrains/annotations/16.0.1/annotations-16.0.1-sources.jar
+2019-10-16 12:47:21,759 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/jetbrains/annotations/16.0.1/annotations-16.0.1-sources.jar
+2019-10-16 12:47:21,790 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jetbrains:annotations:16.0.1
+2019-10-16 12:47:23,275 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar
+2019-10-16 12:47:24,103 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar
+2019-10-16 12:47:24,149 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.25
+2019-10-16 12:47:25,632 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/neovisionaries/nv-websocket-client/2.5/nv-websocket-client-2.5-sources.jar
+2019-10-16 12:47:26,663 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/neovisionaries/nv-websocket-client/2.5/nv-websocket-client-2.5-sources.jar
+2019-10-16 12:47:26,694 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.neovisionaries:nv-websocket-client:2.5
+2019-10-16 12:47:29,725 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/squareup/okhttp3/okhttp/3.13.0/okhttp-3.13.0-sources.jar
+2019-10-16 12:47:30,990 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/squareup/okhttp3/okhttp/3.13.0/okhttp-3.13.0-sources.jar
+2019-10-16 12:47:31,021 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.squareup.okhttp3:okhttp:3.13.0
+2019-10-16 12:47:32,537 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/squareup/okio/okio/1.17.2/okio-1.17.2-sources.jar
+2019-10-16 12:47:33,380 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/squareup/okio/okio/1.17.2/okio-1.17.2-sources.jar
+2019-10-16 12:47:33,396 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.squareup.okio:okio:1.17.2
+2019-10-16 12:47:34,911 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/club/minnced/opus-java-api/1.0.4/opus-java-api-1.0.4-sources.jar
+2019-10-16 12:47:35,333 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/club/minnced/opus-java-api/1.0.4/opus-java-api-1.0.4-sources.jar
+2019-10-16 12:47:35,348 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for club.minnced:opus-java-api:1.0.4
+2019-10-16 12:47:36,833 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/net/java/dev/jna/jna/4.4.0/jna-4.4.0-sources.jar
+2019-10-16 12:47:38,114 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/net/java/dev/jna/jna/4.4.0/jna-4.4.0-sources.jar
+2019-10-16 12:47:38,145 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.java.dev.jna:jna:4.4.0
+2019-10-16 12:47:39,660 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/club/minnced/opus-java-natives/1.0.4/opus-java-natives-1.0.4-sources.jar
+2019-10-16 12:47:40,082 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/club/minnced/opus-java-natives/1.0.4/opus-java-natives-1.0.4-sources.jar
+2019-10-16 12:47:40,113 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for club.minnced:opus-java-natives:1.0.4
+2019-10-16 12:47:43,050 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1-sources.jar
+2019-10-16 12:47:44,440 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1-sources.jar
+2019-10-16 12:47:44,471 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-collections4:4.1
+2019-10-16 12:47:45,957 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/json/json/20160810/json-20160810-sources.jar
+2019-10-16 12:47:46,770 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/json/json/20160810/json-20160810-sources.jar
+2019-10-16 12:47:46,800 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.json:json:20160810
+2019-10-16 12:47:49,441 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-sources.jar
+2019-10-16 12:47:51,396 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-sources.jar
+2019-10-16 12:47:51,443 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.trove4j:trove4j:3.0.3
+2019-10-16 12:47:54,052 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/sedmelluq/lavaplayer/1.3.22/lavaplayer-1.3.22-sources.jar
+2019-10-16 12:47:55,286 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/sedmelluq/lavaplayer/1.3.22/lavaplayer-1.3.22-sources.jar
+2019-10-16 12:47:55,317 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sedmelluq:lavaplayer:1.3.22
+2019-10-16 12:47:56,801 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/sedmelluq/lava-common/1.1.0/lava-common-1.1.0-sources.jar
+2019-10-16 12:47:57,410 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/sedmelluq/lava-common/1.1.0/lava-common-1.1.0-sources.jar
+2019-10-16 12:47:57,441 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sedmelluq:lava-common:1.1.0
+2019-10-16 12:47:58,957 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/sedmelluq/lavaplayer-natives/1.3.13/lavaplayer-natives-1.3.13-sources.jar
+2019-10-16 12:47:59,379 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/sedmelluq/lavaplayer-natives/1.3.13/lavaplayer-natives-1.3.13-sources.jar
+2019-10-16 12:47:59,394 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sedmelluq:lavaplayer-natives:1.3.13
+2019-10-16 12:48:01,847 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6-sources.jar
+2019-10-16 12:48:03,362 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6-sources.jar
+2019-10-16 12:48:03,393 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.6
+2019-10-16 12:48:05,815 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10-sources.jar
+2019-10-16 12:48:07,064 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10-sources.jar
+2019-10-16 12:48:07,095 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.10
+2019-10-16 12:48:08,611 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2019-10-16 12:48:09,454 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2019-10-16 12:48:09,486 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2019-10-16 12:48:12,032 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar
+2019-10-16 12:48:13,297 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar
+2019-10-16 12:48:13,328 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.10
+2019-10-16 12:48:15,814 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/commons-io/commons-io/2.6/commons-io-2.6-sources.jar
+2019-10-16 12:48:16,876 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/commons-io/commons-io/2.6/commons-io-2.6-sources.jar
+2019-10-16 12:48:16,907 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.6
+2019-10-16 12:48:19,188 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8-sources.jar
+2019-10-16 12:48:20,312 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8-sources.jar
+2019-10-16 12:48:20,359 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.9.8
+2019-10-16 12:48:23,235 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8-sources.jar
+2019-10-16 12:48:24,953 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8-sources.jar
+2019-10-16 12:48:24,984 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.9.8
+2019-10-16 12:48:26,500 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0-sources.jar
+2019-10-16 12:48:27,343 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0-sources.jar
+2019-10-16 12:48:27,359 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.9.0
+2019-10-16 12:48:28,858 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/jsoup/jsoup/1.11.3/jsoup-1.11.3-sources.jar
+2019-10-16 12:48:30,093 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/jsoup/jsoup/1.11.3/jsoup-1.11.3-sources.jar
+2019-10-16 12:48:30,124 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jsoup:jsoup:1.11.3
+2019-10-16 12:48:31,702 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/net/iharder/base64/2.3.9/base64-2.3.9-sources.jar
+2019-10-16 12:48:32,327 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/net/iharder/base64/2.3.9/base64-2.3.9-sources.jar
+2019-10-16 12:48:32,357 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.iharder:base64:2.3.9
+2019-10-16 12:48:34,014 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-command/2.1.5/jda-utilities-command-2.1.5-sources.jar
+2019-10-16 12:48:34,826 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-command/2.1.5/jda-utilities-command-2.1.5-sources.jar
+2019-10-16 12:48:34,857 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jagrosh:jda-utilities-command:2.1.5
+2019-10-16 12:48:36,357 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-commons/2.1.5/jda-utilities-commons-2.1.5-sources.jar
+2019-10-16 12:48:36,982 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-commons/2.1.5/jda-utilities-commons-2.1.5-sources.jar
+2019-10-16 12:48:37,013 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jagrosh:jda-utilities-commons:2.1.5
+2019-10-16 12:48:38,716 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-doc/2.1.5/jda-utilities-doc-2.1.5-sources.jar
+2019-10-16 12:48:39,340 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-doc/2.1.5/jda-utilities-doc-2.1.5-sources.jar
+2019-10-16 12:48:39,372 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jagrosh:jda-utilities-doc:2.1.5
+2019-10-16 12:48:41,074 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-examples/2.1.5/jda-utilities-examples-2.1.5-sources.jar
+2019-10-16 12:48:41,496 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-examples/2.1.5/jda-utilities-examples-2.1.5-sources.jar
+2019-10-16 12:48:41,511 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jagrosh:jda-utilities-examples:2.1.5
+2019-10-16 12:48:43,152 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/jagrosh/jda-utilities-menu/2.1.5/jda-utilities-menu-2.1.5-sources.jar
+2019-10-16 12:48:43,777 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/jda-utilities-menu/2.1.5/jda-utilities-menu-2.1.5-sources.jar
+2019-10-16 12:48:43,823 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jagrosh:jda-utilities-menu:2.1.5
+2019-10-16 12:48:47,513 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/JLyrics/0.2/JLyrics-0.2-sources.jar
+2019-10-16 12:48:47,528 [Worker-4: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.jagrosh:JLyrics:0.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.jagrosh:JLyrics:jar:sources:0.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-10-16 12:48:50,028 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar
+2019-10-16 12:48:51,028 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar
+2019-10-16 12:48:51,059 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-classic:1.2.3
+2019-10-16 12:48:51,621 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2019-10-16 12:48:51,621 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1106 sec
+2019-10-16 12:48:53,600 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar
+2019-10-16 12:48:55,294 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar
+2019-10-16 12:48:55,325 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-core:1.2.3
+2019-10-16 12:48:56,793 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/com/typesafe/config/1.3.2/config-1.3.2-sources.jar
+2019-10-16 12:48:57,824 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/typesafe/config/1.3.2/config-1.3.2-sources.jar
+2019-10-16 12:48:57,856 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.typesafe:config:1.3.2
+2019-10-16 12:48:59,340 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/junit/junit/4.12/junit-4.12-sources.jar
+2019-10-16 12:49:00,558 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/junit/junit/4.12/junit-4.12-sources.jar
+2019-10-16 12:49:00,589 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.12
+2019-10-16 12:49:02,058 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jcenter.bintray.com/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2019-10-16 12:49:02,667 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2019-10-16 12:49:02,698 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2019-10-16 12:49:06,619 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jcenter.bintray.com/com/jagrosh/JLyrics/0.2/JLyrics-0.2-javadoc.jar
+2019-10-16 12:49:06,635 [Worker-6: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.jagrosh:JLyrics:0.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.jagrosh:JLyrics:jar:javadoc:0.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-10-16 12:53:01,329 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-16 12:53:03,813 [Worker-8: Launching MusicBot-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\WuJinPeng\Desktop\MusicBot-master
+2019-10-16 12:53:03,813 [Worker-8: Launching MusicBot-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-10-16 12:53:13,882 [Worker-6: Launching MusicBot-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\WuJinPeng\Desktop\MusicBot-master
+2019-10-16 12:53:13,882 [Worker-6: Launching MusicBot-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-10-16 12:53:15,397 [Worker-19: Launching MusicBot-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\WuJinPeng\Desktop\MusicBot-master
+2019-10-16 12:53:15,397 [Worker-19: Launching MusicBot-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-10-16 12:53:31,343 [Worker-13: Launching MusicBot-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\WuJinPeng\Desktop\MusicBot-master
+2019-10-16 12:53:31,343 [Worker-13: Launching MusicBot-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-10-16 12:54:19,856 [Worker-8: Launching MusicBot-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\WuJinPeng\Desktop\MusicBot-master
+2019-10-16 12:54:19,856 [Worker-8: Launching MusicBot-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-10-16 12:56:28,906 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/m2e/workspace/org.eclipse.m2e.workspace.cli/0.3.1/org.eclipse.m2e.workspace.cli-0.3.1-sources.jar
+2019-10-16 12:58:09,345 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0-sources.jar
+2019-10-16 12:59:49,623 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5-sources.jar
+2019-10-16 13:01:30,156 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4-sources.jar
+2019-10-16 13:03:10,574 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/3.3.2/wagon-provider-api-3.3.2-sources.jar
+2019-10-16 13:04:50,892 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.17.6/aether-connector-okhttp-0.17.6-sources.jar
+2019-10-16 13:05:32,855 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.17.3/okio-1.17.3-sources.jar
+2019-10-16 13:05:33,980 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.17.3/okio-1.17.3-sources.jar
+2019-10-16 13:05:35,183 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4-sources.jar
+2019-10-16 13:05:35,761 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4-sources.jar
+2019-10-16 13:07:16,116 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2019-10-16 13:08:56,396 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1-sources.jar
+2019-10-16 13:10:36,813 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14-sources.jar
+2019-10-16 13:12:17,343 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-resolver-provider/3.6.1/maven-resolver-provider-3.6.1-sources.jar
+2019-10-16 13:13:57,637 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-spi/1.3.3/maven-resolver-spi-1.3.3-sources.jar
+2019-10-16 13:15:38,087 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0-sources.jar
+2019-10-16 13:17:18,501 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-impl/1.3.3/maven-resolver-impl-1.3.3-sources.jar
+2019-10-16 13:18:58,838 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.14.1/okhttp-3.14.1-sources.jar
+2019-10-16 13:20:39,286 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.6.1/maven-model-builder-3.6.1-sources.jar
+2019-10-16 13:22:19,752 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-transport-wagon/1.3.3/maven-resolver-transport-wagon-1.3.3-sources.jar
+2019-10-16 13:24:00,084 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.6.1/maven-artifact-3.6.1-sources.jar
+2019-10-16 13:25:40,414 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
+2019-10-16 13:27:20,792 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.6.1/maven-builder-support-3.6.1-sources.jar
+2019-10-16 13:29:00,999 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.6.1/maven-repository-metadata-3.6.1-sources.jar
+2019-10-16 13:30:41,346 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3-sources.jar
+2019-10-16 13:32:21,652 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1-sources.jar
+2019-10-16 13:33:40,331 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.6.1/maven-core-3.6.1-sources.jar
+2019-10-16 13:33:41,976 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.6.1/maven-core-3.6.1-sources.jar
+2019-10-16 13:33:43,008 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/3.3.2/wagon-file-3.3.2-sources.jar
+2019-10-16 13:33:43,527 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/3.3.2/wagon-file-3.3.2-sources.jar
+2019-10-16 13:33:44,522 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.6.1/maven-plugin-api-3.6.1-sources.jar
+2019-10-16 13:33:45,221 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.6.1/maven-plugin-api-3.6.1-sources.jar
+2019-10-16 13:33:46,224 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1-sources.jar
+2019-10-16 13:33:47,795 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1-sources.jar
+2019-10-16 13:33:48,816 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android-sources.jar
+2019-10-16 13:33:52,149 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android-sources.jar
+2019-10-16 13:33:53,153 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.6.1/maven-settings-builder-3.6.1-sources.jar
+2019-10-16 13:33:53,834 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.6.1/maven-settings-builder-3.6.1-sources.jar
+2019-10-16 13:33:54,826 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25-sources.jar
+2019-10-16 13:33:55,733 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25-sources.jar
+2019-10-16 13:33:56,777 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-connector-basic/1.3.3/maven-resolver-connector-basic-1.3.3-sources.jar
+2019-10-16 13:33:57,385 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-connector-basic/1.3.3/maven-resolver-connector-basic-1.3.3-sources.jar
+2019-10-16 13:33:58,335 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/fusesource/hawtjni/hawtjni-runtime/1.16/hawtjni-runtime-1.16-sources.jar
+2019-10-16 13:33:58,785 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/hawtjni/hawtjni-runtime/1.16/hawtjni-runtime-1.16-sources.jar
+2019-10-16 13:33:59,794 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-freebsd32/1.8/jansi-freebsd32-1.8-sources.jar
+2019-10-16 13:34:00,468 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-freebsd32/1.8/jansi-freebsd32-1.8-sources.jar
+2019-10-16 13:34:01,529 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-freebsd64/1.8/jansi-freebsd64-1.8-sources.jar
+2019-10-16 13:34:02,230 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-freebsd64/1.8/jansi-freebsd64-1.8-sources.jar
+2019-10-16 13:34:03,295 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-linux32/1.8/jansi-linux32-1.8-sources.jar
+2019-10-16 13:34:04,019 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-linux32/1.8/jansi-linux32-1.8-sources.jar
+2019-10-16 13:34:05,046 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-linux64/1.8/jansi-linux64-1.8-sources.jar
+2019-10-16 13:34:05,779 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-linux64/1.8/jansi-linux64-1.8-sources.jar
+2019-10-16 13:34:06,838 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-native/1.8/jansi-native-1.8-sources.jar
+2019-10-16 13:34:07,397 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-native/1.8/jansi-native-1.8-sources.jar
+2019-10-16 13:34:08,420 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-osx/1.8/jansi-osx-1.8-sources.jar
+2019-10-16 13:34:08,933 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-osx/1.8/jansi-osx-1.8-sources.jar
+2019-10-16 13:34:09,994 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-windows32/1.8/jansi-windows32-1.8-sources.jar
+2019-10-16 13:34:10,510 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-windows32/1.8/jansi-windows32-1.8-sources.jar
+2019-10-16 13:34:11,522 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-windows64/1.8/jansi-windows64-1.8-sources.jar
+2019-10-16 13:34:12,057 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-windows64/1.8/jansi-windows64-1.8-sources.jar
+2019-10-16 13:34:13,260 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi/1.17.1/jansi-1.17.1-sources.jar
+2019-10-16 13:34:13,979 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi/1.17.1/jansi-1.17.1-sources.jar
+2019-10-16 13:34:15,045 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.6.1/maven-settings-3.6.1-sources.jar
+2019-10-16 13:34:15,769 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.6.1/maven-settings-3.6.1-sources.jar
+2019-10-16 13:34:16,749 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.3.3/maven-resolver-api-1.3.3-sources.jar
+2019-10-16 13:34:17,857 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.3.3/maven-resolver-api-1.3.3-sources.jar
+2019-10-16 13:34:18,938 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.6.1/maven-embedder-3.6.1-sources.jar
+2019-10-16 13:34:19,673 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.6.1/maven-embedder-3.6.1-sources.jar
+2019-10-16 13:34:20,670 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.6.1/maven-compat-3.6.1-sources.jar
+2019-10-16 13:34:21,807 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.6.1/maven-compat-3.6.1-sources.jar
+2019-10-16 13:34:22,810 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1-sources.jar
+2019-10-16 13:34:23,940 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1-sources.jar
+2019-10-16 13:34:24,942 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1-sources.jar
+2019-10-16 13:34:25,887 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1-sources.jar
+2019-10-16 13:34:26,858 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-util/1.3.3/maven-resolver-util-1.3.3-sources.jar
+2019-10-16 13:34:28,059 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-util/1.3.3/maven-resolver-util-1.3.3-sources.jar
+2019-10-16 13:34:29,023 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
+2019-10-16 13:34:29,452 [Worker-23: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
+2019-10-16 15:49:30,263 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-16 21:00:21,423 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-17 11:18:31,168 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-17 12:20:42,928 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-18 14:40:34,193 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-21 14:36:44,867 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-21 14:36:45,382 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-10-23 16:38:48,552 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-23 21:33:05,829 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-24 12:33:48,170 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-25 10:06:18,505 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-25 14:30:30,798 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-26 21:00:47,467 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-27 15:10:12,923 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-27 15:11:08,176 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-28 08:52:34,870 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-28 08:52:46,264 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-10-28 09:12:11,077 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-28 09:12:21,742 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-10-28 10:03:01,520 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-28 14:37:44,416 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-08 15:19:50,952 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-11 15:09:16,557 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-11 16:39:38,205 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-11 16:45:55,368 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-13 17:02:54,927 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-18 22:00:07,178 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-19 23:45:56,375 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-27 18:15:36,656 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-28 14:47:18,007 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-28 22:12:31,128 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-04 16:37:24,233 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-05 08:09:41,911 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-08 20:55:44,368 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-08 20:55:44,680 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-12-09 10:01:05,815 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-09 22:25:07,445 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-09 22:40:32,629 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-11 21:53:43,645 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-12 10:03:50,104 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-12 14:42:16,245 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

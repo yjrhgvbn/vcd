@@ -1,0 +1,12 @@
+package serve;
+
+import java.net.Socket;
+
+public class ServeThread extends Thread{
+	
+	public ServeThread(Socket socket)
+	{
+		
+	}
+
+}

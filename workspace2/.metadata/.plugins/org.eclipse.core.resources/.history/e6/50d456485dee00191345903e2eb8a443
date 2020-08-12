@@ -1,0 +1,23 @@
+package serve;
+
+import java.io.*;
+import java.net.ServerSocket;
+import java.net.Socket;
+import serve.Setting;
+import serve.SeekSql;
+
+public class mainserve {
+	@SuppressWarnings("resource")
+	public static void main(String[] args) throws IOException {
+		ServerSocket serverscok = new ServerSocket(9092);
+		while (true) {
+			Socket scok = serverscok.accept();
+			System.out.println("连接上客户端：" + num);
+			//在其他线程处理接收来自客户端的消息
+			ReceiveThread receiveThread = new ReceiveThread(socket, num);
+			receiveThread.start();
+			
+		}
+	}
+
+}

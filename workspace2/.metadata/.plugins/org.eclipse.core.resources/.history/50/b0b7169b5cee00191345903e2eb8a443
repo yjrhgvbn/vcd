@@ -1,0 +1,53 @@
+package serve;
+
+import java.io.*;
+import java.net.ServerSocket;
+import java.net.Socket;
+import java.util.ArrayList;
+import serve.SeekSql;
+
+public class ServeThread extends Thread {
+
+	private SeekSql sql;
+	private InputStream is;
+	private OutputStream os;
+
+	@SuppressWarnings("resource")
+	public ServeThread(Socket socket) {
+		try {
+			is = socket.getInputStream();
+			os = socket.getOutputStream();
+			sql = new SeekSql();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Override
+	public void run() {
+		super.run();
+		try {
+			BufferedInputStream in = new BufferedInputStream(is);
+			ObjectOutputStream obout = new ObjectOutputStream(os);
+			System.out.println("接收到了客户端的请求");
+			byte[] inputData = new byte[524];
+			int n = in.read(inputData);
+			String inputMsg = new String(inputData, 0, n, "UTF-8");
+			System.out.println(inputMsg);
+			System.out.println(n);
+			SeekSql sql = new SeekSql();
+			obout.writeObject(sql.GetList(Setting.Arears.Asia));
+			obout.flush();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
+	private void SendList(String arear) {
+		ArrayList<String> list = null;
+		for(Setting.Arears a : Setting.Arears.values())
+			if(a.toString()==arear)
+				sql.GetList(a);
+	}
+
+}

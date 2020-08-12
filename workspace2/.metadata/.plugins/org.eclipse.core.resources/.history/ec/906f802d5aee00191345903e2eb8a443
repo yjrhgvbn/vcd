@@ -1,0 +1,10 @@
+package serve;
+
+public class ServeThread extends Thread{
+	
+	public ServeThread(Socket socket)
+	{
+		
+	}
+
+}

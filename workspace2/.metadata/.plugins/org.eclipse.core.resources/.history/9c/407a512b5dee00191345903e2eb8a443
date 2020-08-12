@@ -1,0 +1,19 @@
+package serve;
+
+import java.io.*;
+import java.net.ServerSocket;
+import java.net.Socket;
+import serve.Setting;
+import serve.SeekSql;
+
+public class mainserve {
+	@SuppressWarnings("resource")
+	public static void main(String[] args) throws IOException {
+		ServerSocket serverscok = new ServerSocket(9092);
+		while (true) {
+			Socket scok = serverscok.accept();
+		}
+
+	}
+
+}

@@ -1,0 +1,20 @@
+package mos;
+
+import java.util.ArrayList;
+
+public class t{
+
+   
+    public static void main(String[] args) {
+        // TODO code application logic here
+        ArrayList<String>a = new  ArrayList<String>();
+        a.add("a");
+        a.add("b");
+        a.add("c");
+        String c = a.get(1);
+        a.remove(1);
+        System.out.print(c);
+    }
+
+   }
+

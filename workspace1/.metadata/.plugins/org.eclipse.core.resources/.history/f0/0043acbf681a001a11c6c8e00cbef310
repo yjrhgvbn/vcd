@@ -1,0 +1,92 @@
+package mos;
+
+import java.util.ArrayList;
+
+public class Action {
+	String defaultName = "A";
+    int usedName[]=new int[26];
+    
+    public void init() {
+    	for(int i = 0;i<26;i++)
+    		usedName[i]=0;
+    }
+    
+    public String getName() {
+    	for(int i = 0;i<26;i++)
+    	{
+    		if(usedName[i]==0) 
+    		{
+    			return String.valueOf((char)(defaultName.charAt(0)+i));
+    		}
+    	}
+    	return "";
+    }
+    
+   public void SetName(String name) {
+    	if(name.length()==1) {
+    		int i = (int)name.charAt(0) - (int)'A';
+    		if(i>=0 && i<26) {
+    			usedName[i]=1;
+    		}
+    	}
+    }
+   
+   String avg(String a[][],int index)
+   {
+	   double sum = 0;
+	   for(int i = 0;i<a.length;i++)
+	   {
+		   if(a[i][index]==null || a[i][index].equals(""))
+			   break;
+
+		   System.out.println(a[i][index]);
+		   sum+=Double.parseDouble(a[i][index]);
+	   }
+	   return String.valueOf(sum/(double)a.length);
+   }
+   
+   public void copyArray(String a[][],String b[][]){
+	   if(b == null)
+	   {
+		   for(int j=0;j<a[0].length;j++)
+			   a[0][j]="";
+		   return;
+	   }
+	   for(int i = 0;i<a.length;i++)
+	   {
+		   if(i>=b.length)
+		   {
+			   for(int j=0;j<a[0].length;j++)
+				   a[i][j]="";
+			   return;
+		   }
+		   else
+			   for(int j=0;j<a[0].length;j++)
+			   {
+				   a[i][j]=b[i][j]; 
+				   if(j>=b[0].length)
+					   break;
+			   }
+	   }
+   }
+   
+   public int RandomInt(int max) {
+	   return (int)(Math.random()*max)+1;
+   }
+   
+    public static void main(String[] args) {
+    	Action a = new Action();
+    	ArrayList<String[]> b= new ArrayList<String[]>();
+    	for(int i = 0;i<5;i++)
+    	{
+        	String c[]= {a.getName(),"b"};
+        	a.SetName(c[0]);
+        	b.add(c);
+    	}
+    	String d[][]=b.toArray(new String[0][]);
+    	for(int i = 0;i<5;i++)
+    	{
+    		System.out.print(d[i][0]+" "+d[i][1]+"\n");
+    	}
+    }
+}

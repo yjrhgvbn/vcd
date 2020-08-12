@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\WuJinPeng\Desktop\vueProject\资料+源码+笔记\bookEstore"/>
+		<item value="C:\Users\WuJinPeng\Desktop\vueProject\shopping"/>
+		<item value="D:\projectDown\shopping"/>
+		<item value="C:\Users\WuJinPeng\Desktop\vueProject\FistVue"/>
+		<item value="D:\projectDown\ShopWeb_xidianSS14_05"/>
+		<item value="C:\Users\WuJinPeng\Desktop\hhhh\webAudio"/>
+		<item value="D:\Google\ChormeDownload\TinySound-master"/>
+		<item value="C:\Users\WuJinPeng\Desktop\MusicBot-master"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="670"/>
+		<item key="DIALOG_Y_ORIGIN" value="214"/>
+		<item key="DIALOG_WIDTH" value="581"/>
+		<item key="DIALOG_HEIGHT" value="452"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

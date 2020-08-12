@@ -1,0 +1,64 @@
+
+package mos;
+ 
+import java.awt.Container;
+import java.awt.GridLayout;
+import java.awt.event.ItemEvent;
+import java.awt.event.ItemListener;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
+import java.io.File;
+ 
+import javax.swing.BorderFactory;
+import javax.swing.ButtonGroup;
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JRadioButton;
+ 
+class MyRadio1 implements ItemListener {
+    private String right = "f:" + File.separator + "2.png";// 定义图片路径
+    private String wrong = "f:" + File.separator + "3.png";// 定义图片路径
+    private JFrame frame = new JFrame("Beyole");// 定义窗体
+    private Container container = frame.getContentPane();// 得到窗体容器
+    private JRadioButton jb1 = new JRadioButton("男", new ImageIcon(right), true);
+    private JRadioButton jb2 = new JRadioButton("女", new ImageIcon(wrong),
+            false);
+    private JPanel panel = new JPanel();// 定义一个面板
+ 
+    public MyRadio1() {
+        panel.setBorder(BorderFactory.createTitledBorder("选择性别"));// 定义一个面板的边框显示条
+        panel.setLayout(new GridLayout(1, 3));// 定义排版，一行三列
+        ButtonGroup group = new ButtonGroup();// 定义一个按钮组
+        group.add(this.jb1);// 将单选按钮组加入到一个组
+        group.add(this.jb2);// 将单选按钮组加入到一个组
+        panel.add(this.jb1);// 将单选按钮加入到面板当中
+        panel.add(this.jb2);// 将单选按钮加入到面板当中
+        jb1.addItemListener(this);// 加入监听事件
+        jb2.addItemListener(this);// 加入监听事件
+        container.add(panel);// 加入面板到容器中
+        this.frame.setSize(200, 100);
+        this.frame.setVisible(true);
+        this.frame.addWindowListener(new WindowAdapter() {
+            public void windowClosing(WindowEvent arg0) {
+                System.exit(1);
+            }
+        });
+    }
+ 
+    public void itemStateChanged(ItemEvent e) {
+        if (e.getSource() == jb1) {
+            jb1.setIcon(new ImageIcon(right));
+            jb2.setIcon(new ImageIcon(wrong));
+            System.out.print("a");
+        } else {
+            jb2.setIcon(new ImageIcon(right));
+            jb1.setIcon(new ImageIcon(wrong));
+            System.out.print("b");
+        }
+    }
+    public static void main(String[] args) {
+        new MyRadio1();
+    }
+}
+ 

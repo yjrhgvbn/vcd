@@ -1,0 +1,27 @@
+package serve;
+
+import java.io.BufferedInputStream;
+import java.io.ObjectOutputStream;
+import java.net.ServerSocket;
+import java.net.Socket;
+
+public class ServeThread extends Thread{
+	
+	public ServeThread(Socket socket)
+	{
+		ServerSocket serverscok = new ServerSocket(9092);
+		Socket scok = serverscok.accept();
+		BufferedInputStream in = new BufferedInputStream(scok.getInputStream());
+		ObjectOutputStream obout = new ObjectOutputStream(scok.getOutputStream());
+		System.out.println("接收到了客户端的请求");
+		byte[] inputData = new byte[524];
+		int n = in.read(inputData);
+		String inputMsg = new String(inputData, 0, n, "UTF-8");
+		System.out.println(inputMsg);
+		System.out.println(n);
+		SeekSql sql = new SeekSql();
+		obout.writeObject(sql.GetList(Setting.Arears.Asia));
+		obout.flush();
+	}
+
+}

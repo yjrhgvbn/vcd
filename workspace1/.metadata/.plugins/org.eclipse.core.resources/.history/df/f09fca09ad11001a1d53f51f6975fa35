@@ -1,0 +1,113 @@
+package os;
+import os.NodeList;
+
+public class Schedule {
+
+	int rule;//算法类型，0,1,2 短进程的抢占，非抢占，还有先来先服务
+	public NodeList run;
+	public NodeList ready;
+	public NodeList wait;
+	public NodeList finish;
+	
+	public Schedule(int rule)
+	{
+		this.rule=rule;
+		run = new NodeList(0);
+		
+		ready = new NodeList(1);
+		wait = new NodeList(2);
+		finish = new NodeList(3);
+	}
+	public void run()
+	{
+		if(run.size == 0)
+		{
+			if(rule==2)
+			{
+				run.AddToTail(ready.PopHead());
+			}
+			else
+			{
+				run.AddToTail(ready.PobShortest());
+			}
+		}
+		if(run.run()!=0)
+		{
+			finish.AddToTail(run.PopComple());
+			if(rule==2)
+			{
+				run.AddToTail(ready.PopHead());
+			}
+			else
+			{
+				run.AddToTail(ready.PobShortest());
+			}
+		}
+	}
+	
+	public void block()
+	{
+		wait.AddToTail(run.PopComple());
+		if(rule==2)
+		{
+			run.AddToTail(ready.PopHead());
+		}
+		else
+		{
+			run.AddToTail(ready.PobShortest());
+		}
+	}
+	
+	public void unblock()
+	{
+		ready.AddToTail(wait.PopHead());
+	}
+	
+	public void add(String name,int arrive_time,int need_time) 
+	{
+		if(rule == 0)
+		{
+			if(run.size <= 0)
+			{
+				run.AddToTail(run.CreatePCB(name, arrive_time, need_time));
+				return;
+			}
+			else if(run.minTime()>need_time)
+			{
+				ready.AddToTail(run.PopHead());
+				run.AddToTail(run.CreatePCB(name, arrive_time, need_time));
+				return;
+			}
+		}
+		ready.AddToTail(ready.CreatePCB(name, arrive_time, need_time));
+	}
+	public void awake()
+	{
+		ready.AddToTail(wait.PopHead());
+	}
+	
+	public void test()
+	{
+		ready.PopHead();
+	}
+	
+	public static void  main(String[] agrs)
+	{
+		Schedule s= new Schedule(0);
+		s.add("123", 0, 12);
+		s.add("1234", 1, 2);
+		s.add("12345", 2, 12);
+		System.out.print("就绪");
+		s.ready.show();
+		s.run();
+		System.out.print("就绪");
+		s.ready.show();
+		System.out.print("执行");
+		s.run.show();
+		s.run();
+		System.out.print("就绪");
+		s.ready.show();
+		System.out.print("执行");
+		s.run.show();
+	}
+}

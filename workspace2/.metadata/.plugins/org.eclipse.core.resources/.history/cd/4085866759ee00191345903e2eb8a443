@@ -1,0 +1,56 @@
+package serve;
+
+import serve.Setting;
+
+import java.io.File;
+import java.io.IOException;
+import java.sql.*;
+
+import org.jaudiotagger.audio.exceptions.CannotReadException;
+import org.jaudiotagger.audio.exceptions.InvalidAudioFrameException;
+import org.jaudiotagger.audio.exceptions.ReadOnlyFileException;
+import org.jaudiotagger.audio.flac.FlacFileReader;
+import org.jaudiotagger.tag.*;
+import org.jaudiotagger.tag.flac.FlacTag;
+
+public class BulidSql {
+
+	public static void main(String[] agrs) throws ClassNotFoundException, SQLException {
+		build(Setting.AsiaPath, Setting.Arears.Asia);
+	}
+
+	static void build(String path, Setting.Arears arearType) throws SQLException, ClassNotFoundException {
+		File files = new File(path); // 获取其file对象
+		File[] fs = files.listFiles(); // 遍历path下的文件和目录，放在File数组中
+		Class.forName(Setting.JDBC_DRIVER);
+		Connection conn = DriverManager.getConnection(Setting.DB_URL, Setting.USER, Setting.PASS);
+		Statement stmt = null;
+		stmt = conn.createStatement();
+		for (File file : fs) {
+			FlacFileReader reader = new FlacFileReader();
+			try {
+				FlacTag tag = (FlacTag) reader.read(file).getTag();
+				tag.getVorbisCommentTag();
+				String name = tag.getFirst(FieldKey.TITLE);
+				String album = tag.getFirst(FieldKey.ALBUM);
+				String artist = tag.getFirst(FieldKey.ARTIST);
+				String arear = arearType.toString();
+				String song = path + "/" + file.getName();
+				String sql = "SELECT COUNT(*) FROM songslist WHERE name = '" + name + "';";
+				ResultSet rs = stmt.executeQuery(sql);
+				rs.next();
+				if (rs.getInt(1) != 0)
+					continue;
+				sql = "INSERT INTO songslist VALUES ('" + name + "','" + album + "','" + artist + "','" + song + "','"
+						+ arear + "');";
+				stmt.execute(sql);
+				rs.close();
+			} catch (CannotReadException | IOException | TagException | ReadOnlyFileException
+					| InvalidAudioFrameException e) {
+				e.printStackTrace();
+			}
+		}
+		stmt.close();
+		conn.close();
+	}
+}
